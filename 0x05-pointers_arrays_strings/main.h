@@ -9,4 +9,3 @@ void swap_int(int *a, int *b);
 void print_array(int *a, int n);
 void puts_half(char *str);
 
-
