@@ -5,7 +5,7 @@
  * @dest : Input i
  * @src : Input j
  *
- * Return :0
+ * Return : void
  */
 char *_strcat(char *dest, char *src);
 {
