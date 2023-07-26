@@ -2,10 +2,11 @@
 
 /**
  * _strcat - function that concatenates two strings.
- * @dest : Input i
- * @src : Input j
+ * @dest: Input i
+ * @src: Input j
  *
- * Return : void
+ * Return: void
+ *
  */
 char *_strcat(char *dest, char *src);
 {
