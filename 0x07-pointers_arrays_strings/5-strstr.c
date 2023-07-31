@@ -2,7 +2,7 @@
 /**
  * _strstr -  function finds the first occurrence of the substring
  * @haystack: input
- * @needled: input
+ * @needle: input
  *
  * Return: always 0
  *
